@@ -1,0 +1,15 @@
+h1{
+    background-color: aquamarine;
+    text-align: center;
+    
+}
+li{
+    display: flexbox;
+    
+}
+img{
+    border-radius: 50%;
+    width: 30%;
+    background-size: contain;
+
+}
