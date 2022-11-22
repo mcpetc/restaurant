@@ -1,3 +1,4 @@
+
 h1{
     background-color: aquamarine;
     text-align: center;
@@ -12,4 +13,17 @@ img{
     width: 30%;
     background-size: contain;
 
+}
+
+nav{
+    
+    background-color: yellow;
+    padding: 15px;
+    
+    
+
+}
+h1{
+    border-color: black;
+    
 }
